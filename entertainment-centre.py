@@ -41,7 +41,7 @@ home_alone = media.Movie(
 the_mummy = media.Movie(
                 "The Mummy",
                 "An ancient Egyptian princess is awakened from her crypt"
-                "beneath the desert, bringing with her malevolence grown over
+                "beneath the desert, bringing with her malevolence grown over"
                 "millennia and terrors that defy human comprehension.",
                 "https://images-na.ssl-images-amazon.com/images/I/7151Qmxd3pL._SY550_.jpg",  # NOQA
                 "https://www.youtube.com/watch?v=h3ptPtxWJRs&feature=player_embedded")  # NOQA
