@@ -39,12 +39,13 @@ home_alone = media.Movie(
                 "https://www.youtube.com/watch?v=c3sBBRxDAqk")
 
 the_mummy = media.Movie(
-                "The Mummy",
-                "An ancient Egyptian princess is awakened from her crypt"
-                "beneath the desert, bringing with her malevolence grown over"
-                "millennia and terrors that defy human comprehension.",
-                "https://images-na.ssl-images-amazon.com/images/I/7151Qmxd3pL._SY550_.jpg",  # NOQA
-                "https://www.youtube.com/watch?v=h3ptPtxWJRs&feature=player_embedded")  # NOQA
+                "Tangled",
+                "Rapunzel, an innocent, young girl, is locked up by her"
+                "overly protective mother. Her wish to escape into the world"
+                "outside finally comes true when she meets the good-hearted"
+                "thief, Flynn",
+                "http://i.ebayimg.com/00/s/NTAwWDM1OA==/z/mMMAAOxyYSdS-0SF/$_3.JPG?set_id=2",  # NOQA
+                "https://www.youtube.com/watch?v=ip_0CFKTO9E")  # NOQA
 
 movies = [
         toy_story,
